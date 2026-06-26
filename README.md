@@ -1,1 +1,0 @@
-# smartsystem
